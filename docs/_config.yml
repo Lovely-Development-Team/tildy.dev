@@ -1,0 +1,6 @@
+title: tildy.dev
+email: 
+description: >-
+baseurl: ""
+url: "https://tildy.dev"
+remote_theme: "jeffreytse/jekyll-theme-yat"
