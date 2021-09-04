@@ -1,0 +1,76 @@
+{
+	"members": [
+		{
+			"name": "Ben",
+			"link": "/"
+		},
+		{
+			"name": "Brian",
+			"link": "/"
+		},
+		{
+			"name": "David",
+			"link": "/"
+		},
+		{
+			"name": "Dom",
+			"link": "/"
+		},
+		{
+			"name": "Ellen",
+			"link": "/"
+		},
+		{
+			"name": "Grey",
+			"link": "https://greypatterson.me"
+		},
+		{
+			"name": "Izzy",
+			"link": "/"
+		},
+		{
+			"name": "Justin",
+			"link": "https://www.jwhamilton.co"
+		},
+		{
+			"name": "Kate",
+			"link": "https://www.klmatthews.com"
+		},
+		{
+			"name": "Kirk",
+			"link": "/"
+		},
+		{
+			"name": "Madi",
+			"link": "/"
+		},
+		{
+			"name": "Majd",
+			"link": "/"
+		},
+		{
+			"name": "Matt C",
+			"link": "/"
+		},
+		{
+			"name": "Matt V",
+			"link": "/"
+		},
+		{
+			"name": "Rosemary",
+			"link": "https://rosemaryorchard.com/"
+		},
+		{
+			"name": "Skyler",
+			"link": "http://www.skylerblue.net"
+		},
+		{
+			"name": "Tony",
+			"link": "https://www.tonyscida.com/"
+		},
+		{
+			"name": "Zach",
+			"link": "https://zachknox.com/"
+		}
+	]
+}

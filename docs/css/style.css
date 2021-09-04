@@ -1,0 +1,83 @@
+@font-face {
+	font-family: "JetBrains Mono";
+	src: 	url(/fonts/JetBrainsMono-Regular.woff2) format("woff2"),
+			url(/fonts/JetBrainsMono-Regular.ttf) format("ttf");
+	font-display:fallback;
+}
+
+@font-face {
+	font-family: "JetBrains Mono";
+	src: 	url(/fonts/JetBrainsMono-Bold.woff2) format("woff2"),
+			url(/fonts/JetBrainsMono-Bold.ttf) format("ttf");
+	font-weight:bold;
+	font-display:fallback;
+}
+
+body {
+	--background-color: #dbdad4;
+	--text-color: #323232;
+	--link-color: #d55b71;
+	--link-color-hover: #536bb4;
+	
+	
+	background-color:var(--background-color);
+	color:var(--text-color);
+	
+	font-family:"JetBrains Mono", monospace;
+	font-size:1.5em;
+}
+
+p {
+	margin-top:0px;
+}
+
+ul {
+	margin-top:0px;
+}
+
+li {
+	list-style-type:none;
+	text-indent:-1em;
+}
+
+li:before {
+	content: "- "
+}
+
+a {
+	color:var(--link-color);	
+}
+
+a:hover {
+	color:var(--link-color-hover);
+}
+
+#title {
+	color:var(--link-color);
+}
+
+#container {
+	width:100%;
+	height:100%;
+	
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+#content {
+	display:flex;
+	max-width:1000px;
+	flex-direction:column;
+}
+
+@media screen and (orientation: portrait) {
+	#container {
+		display:block;
+	}
+	#content {
+		width:100%;
+		font-size:4vw;
+		margin:10px;
+	}
+}
