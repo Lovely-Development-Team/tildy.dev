@@ -1,17 +1,4 @@
-@font-face {
-	font-family: "JetBrains Mono";
-	src: 	url(/fonts/JetBrainsMono-Regular.woff2) format("woff2"),
-			url(/fonts/JetBrainsMono-Regular.ttf) format("ttf");
-	font-display:fallback;
-}
-
-@font-face {
-	font-family: "JetBrains Mono";
-	src: 	url(/fonts/JetBrainsMono-Bold.woff2) format("woff2"),
-			url(/fonts/JetBrainsMono-Bold.ttf) format("ttf");
-	font-weight:bold;
-	font-display:fallback;
-}
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 body {
 	--background-color: #dbdad4;
