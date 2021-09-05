@@ -5,8 +5,9 @@ body {
 	--text-color: #323232;
 	--link-color: #d55b71;
 	--link-color-hover: #536bb4;
-	--dark-background-color: #323232;
+	--dark-background-color: #202020;
 	--dark-text-color: #dbdad4;
+	--dark-link-color: #ffacba;
 	
 	
 	background-color:var(--background-color);
@@ -75,6 +76,13 @@ a:hover {
 	body {
 		background-color:var(--dark-background-color);
 		color:var(--dark-text-color);
+	}
+	
+	a {
+		color:var(--dark-link-color);	
+	}
+	#title {
+		color:var(--dark-link-color);
 	}
 	
 }
