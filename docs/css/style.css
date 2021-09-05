@@ -5,6 +5,8 @@ body {
 	--text-color: #323232;
 	--link-color: #d55b71;
 	--link-color-hover: #536bb4;
+	--dark-background-color: #323232;
+	--dark-text-color: #dbdad4;
 	
 	
 	background-color:var(--background-color);
@@ -63,8 +65,16 @@ a:hover {
 		display:block;
 	}
 	#content {
-		width:100%;
+		width:90%;
 		font-size:4vw;
-		margin:10px;
+		margin:10px auto;
 	}
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color:var(--dark-background-color);
+		color:var(--dark-text-color);
+	}
+	
 }
