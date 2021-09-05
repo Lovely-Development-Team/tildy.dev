@@ -1,0 +1,20 @@
+{
+	"projects": [
+		{
+			"name": "MottoBotto",
+			"link": "https://github.com/Lovely-Development-Team/MottoBotto"
+		},
+		{
+			"name": "Tildy",
+			"link": "https://github.com/Lovely-Development-Team/TLDBotto"
+		},
+		{
+			"name": "Relay FM for St. Jude",
+			"link": "https://github.com/Lovely-Development-Team/St-Jude-Widget-App"
+		},
+		{
+			"name": "The Nutbush Dance",
+			"link": "https://www.nutbush.dance"
+		}
+	]
+}
