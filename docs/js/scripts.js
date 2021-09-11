@@ -53,7 +53,7 @@ function getMembers() {
 	});
 }
 
-function pageLoaded() {
+window.onload = function() {
 	getMembers();
 	getProjects();
 }
