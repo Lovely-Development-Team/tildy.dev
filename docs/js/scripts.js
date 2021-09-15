@@ -24,6 +24,7 @@ function getProjects() {
 			a.href = project["link"];
 			a.innerHTML = project["name"];
 			li.appendChild(a);
+			li.appendChild("<p>"+ project['description'] +"</p>")
 			nodes.push(li);
 		}
 		
