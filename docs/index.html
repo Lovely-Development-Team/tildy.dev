@@ -21,7 +21,7 @@ layout: base
 			{% assign tlders = '' | split: '' %}
 			
 			{% for person in site.data.members.people  %}
-				{% capture member %}<a href="{{ person.link }}">{{ person.name }}</a>{% endcapture %}
+				{% capture member %}{% if person.link %}<a href="{{ person.link }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}{% endcapture %}
 				{% assign tlders = tlders | push: member %}
 			{% endfor %}
 			
