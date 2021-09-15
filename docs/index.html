@@ -8,8 +8,27 @@ layout: base
 		
 		<p>We're a group of friends around the world who make a few things, including:</p>
 		
-		<ul id="projects"></ul>
+		<dl id="projects">
+			{% for project in site.data.projects.projects %}
+				<dt><a href="{{ project.link }}">{{ project.name }}</a></dt>
+				<dd>{{ project.description | markdownify }}</dd>
+			{% endfor %}
+		</dl>
 		
-		<p id="members">We are some people.</p>
+		<p id="members">
+			{% if site.data.members %}
+			
+			{% assign tlders = '' | split: '' %}
+			
+			{% for person in site.data.members.people  %}
+				{% capture member %}<a href="{{ person.link }}">{{ person.name }}</a>{% endcapture %}
+				{% assign tlders = tlders | push: member %}
+			{% endfor %}
+			
+			We are {{ tlders | array_to_sentence_string: }}.
+		{% else %}
+			We are some people.
+		{% endif %}
+		</p>
 	</div>
 </div>
