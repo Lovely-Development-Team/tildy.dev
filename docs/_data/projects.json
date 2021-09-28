@@ -1,29 +1,29 @@
 {
 	"projects": [
 		{
+			"name": "Elsewhen",
+			"link": "https://github.com/Lovely-Development-Team/Elsewhen",
+			"description": '[Now on TestFlight.](https://testflight.apple.com/join/GZNQJec7) An app for sharing formatted dates in Discord.'
+		},
+		{
 			"name": "MottoBotto",
 			"link": "https://github.com/Lovely-Development-Team/MottoBotto",
 			"description": 'A bespoke bot for the most special channel in the Relay FM member Discord.'
 		},
 		{
-			"name": "Tildy",
-			"link": "https://github.com/Lovely-Development-Team/TLDBotto",
-			"description": 'A test-bed for Discord bot features. They may call you a 🐌.'
-		},
+      		"name": "The Nutbush Dance",
+			"link": "https://www.nutbush.dance",
+			"description": 'Our tribute to the greatest collaboration between Tina Turner and Australia since Mad Max: Beyond Thunderdome.'
+    		},
 		{
 			"name": "Relay FM for St. Jude",
 			"link": "https://github.com/Lovely-Development-Team/St-Jude-Widget-App",
 			"description": 'A widget app showing the progress of the 2021 Relay FM St. Jude fundraiser. [Donate today!](https://stjude.org/relay)'
 		},
 		{
-			"name": "The Nutbush Dance",
-			"link": "https://www.nutbush.dance",
-			"description": 'Our tribute to the greatest collaboration between Tina Turner and Australia since Mad Max: Beyond Thunderdome.'
-		},
-		{
-			"name": "Elsewhen",
-			"link": "https://github.com/Lovely-Development-Team/Elsewhen",
-			"description": '[Now on TestFlight.](https://testflight.apple.com/join/GZNQJec7) An app for sharing formatted dates in Discord.'
+			"name": "Tildy",
+			"link": "https://github.com/Lovely-Development-Team/TLDBotto",
+			"description": 'A test-bed for Discord bot features. They may call you a 🐌.'
 		}
 	]
 }
