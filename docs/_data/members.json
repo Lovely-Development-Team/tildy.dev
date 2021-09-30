@@ -1,74 +1,86 @@
 {
-	"people": [
-		{
-			"name": "Alex",
-			"link": "https://www.418teapot.net"
-		},
-		{
-			"name": "Ben"
-		},
-		{
-			"name": "Brian"
-		},
-		{
-			"name": "David"
-		},
-		{
-			"name": "Dom"
-		},
-		{
-			"name": "Ellen"
-		},
-		{
-			"name": "Grey",
-			"link": "https://greypatterson.me"
-		},
-		{
-			"name": "Izzy",
-			"link": "https://stardust.fm"
-		},
-		{
-			"name": "Justin",
-			"link": "https://www.jwhamilton.co"
-		},
-		{
-			"name": "Kate",
-			"link": "https://www.klmatthews.com"
-		},
-		{
-			"name": "Kirk"
-		},
-		{
-			"name": "Madi",
-			"link": "https://blog.flexpotential.com/"
-		},
-		{
-			"name": "Majd",
-			"link": "https://www.apple.com/leadership/tim-cook/"
-		},
-		{
-			"name": "Matt C",
-			"link": "http://mattcooksey.me"
-		},
-		{
-			"name": "Matt VO",
-			"link": "https://peerreviewed.io"
-		},
-		{
-			"name": "Rosemary",
-			"link": "https://rosemaryorchard.com/"
-		},
-		{
-			"name": "Skyler",
-			"link": "http://www.skylerblue.net"
-		},
-		{
-			"name": "Tony",
-			"link": "https://www.tonyscida.com/"
-		},
-		{
-			"name": "Zach",
-			"link": "https://zachknox.com/"
-		}
-	]
+  "people": [
+    {
+      "name": "Alex",
+      "link": "https://www.418teapot.net",
+      "github": "alexcfaber"
+    },
+    {
+      "name": "Ben",
+      "github": "benbacardi"
+    },
+    {
+      "name": "Brian"
+    },
+    {
+      "name": "David",
+      "github": "dwrss"
+    },
+    {
+      "name": "Dom"
+    },
+    {
+      "name": "Ellen"
+    },
+    {
+      "name": "Grey",
+      "link": "https://greypatterson.me",
+      "github": "grey280"
+    },
+    {
+      "name": "Izzy",
+      "link": "https://stardust.fm",
+      "github": "izzystardust"
+    },
+    {
+      "name": "Justin",
+      "link": "https://www.jwhamilton.co",
+      "github": "jwhamilton99"
+    },
+    {
+      "name": "Kate",
+      "link": "https://www.klmatthews.com",
+      "github": "klmatthews"
+    },
+    {
+      "name": "Madi",
+      "link": "https://blog.flexpotential.com/",
+      "github": "madi-vh"
+    },
+    {
+      "name": "Majd",
+      "link": "https://www.apple.com/leadership/tim-cook/",
+      "github": "majdkoshakji"
+    },
+    {
+      "name": "Matt C",
+      "link": "http://mattcooksey.me",
+      "github": "mattcooksey12"
+    },
+    {
+      "name": "Matt VO",
+      "link": "https://peerreviewed.io",
+      "github": "mvormer"
+    },
+    {
+      "name": "Rosemary",
+      "link": "https://rosemaryorchard.com/",
+      "github": "RosemaryOrchard"
+    },
+    {
+      "name": "Skyler",
+      "link": "http://www.skylerblue.net",
+      "github": "SkyKerr"
+    },
+    {
+      "name": "Tony",
+      "link": "https://www.tonyscida.com/",
+      "github": "tonyskyday"
+    },
+    {
+      "name": "Zach",
+      "link": "https://zachknox.com/",
+      "github": "zmknox"
+    }
+  ]
 }
