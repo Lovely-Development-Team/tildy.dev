@@ -1,0 +1,5 @@
+---
+---
+{% assign people = site.data.members.people | sort: "github" %}{% assign github = '' | split: '' %}{% for member in people %}{% if member.github %}{% assign github = github | push: member.github %}{% endif %}{% endfor %}{
+  "contributors": {{ github | jsonify }}
+}
