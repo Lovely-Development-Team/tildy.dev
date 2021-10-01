@@ -20,12 +20,14 @@ layout: base
 			
 			{% assign tlders = '' | split: '' %}
 			
-			{% for person in site.data.members.people  %}
+			{% assign people = site.data.members.people | sort: "name" %}
+			
+			{% for person in people %}
 				{% capture member %}{% if person.link %}<a href="{{ person.link }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}{% endcapture %}
 				{% assign tlders = tlders | push: member %}
 			{% endfor %}
 			
-			We are {{ tlders | array_to_sentence_string: }}.
+			We are {{ tlders | array_to_sentence_string }}.
 		{% else %}
 			We are some people.
 		{% endif %}
