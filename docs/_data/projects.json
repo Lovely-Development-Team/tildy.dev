@@ -3,27 +3,27 @@
 		{
 			"name": "Elsewhen",
 			"link": "https://github.com/Lovely-Development-Team/Elsewhen",
-			"description": '[Now on TestFlight.](https://testflight.apple.com/join/pWKcjt7i) An app for sharing formatted dates in Discord.'
+			"description": "[Now on TestFlight.](https://testflight.apple.com/join/pWKcjt7i) Time zones make talking to people online about times and dates complicated. Elsewhen makes it easier by letting you pick a date and time in a particular time zone that can be copied as Discord time code (which shows the time in each user's time zone,) or a list of times in time zones you choose, which can be shared anywhere you wish."
 		},
 		{
 			"name": "MottoBotto",
 			"link": "https://github.com/Lovely-Development-Team/MottoBotto",
-			"description": 'A bespoke bot for the most special channel in the Relay FM member Discord.'
+			"description": "A bespoke bot for the most special channel in the Relay FM member Discord."
 		},
 		{
       "name": "The Nutbush Dance",
 			"link": "https://www.nutbush.dance",
-			"description": 'Our tribute to the greatest collaboration between Tina Turner and Australia since Mad Max: Beyond Thunderdome.'
+			"description": "Our tribute to the greatest collaboration between Tina Turner and Australia since Mad Max: Beyond Thunderdome."
     },
 		{
 			"name": "Relay FM for St. Jude",
 			"link": "https://github.com/Lovely-Development-Team/St-Jude-Widget-App",
-			"description": '(Currently Inactive) A widget app that showed the progress of the 2021 Relay FM St. Jude fundraiser.'
+			"description": "(Currently Inactive) A widget app that showed the progress of the 2021 Relay FM St. Jude fundraiser."
 		},
 		{
 			"name": "Tildy",
 			"link": "https://github.com/Lovely-Development-Team/TLDBotto",
-			"description": 'A test-bed for Discord bot features. They may call you a 🐌.'
+			"description": "A test-bed for Discord bot features. They may call you a 🐌."
 		}
 	]
 }
