@@ -1,0 +1,33 @@
+body {
+    border: 25px solid rgb(108, 117, 245);
+    border-width: 25px 0;
+}
+
+img.screenshot {
+    min-height: 600px;
+    max-height:  75vh;
+    /*max-width: 75vh;*/
+}
+
+.app-icon {
+    height: 60px;
+    width: 60px;
+    border-radius: 12px;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.app-store-button {
+    height: 60px;
+}
+
+a {
+    color: rgb(108, 117, 245);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(68, 77, 205);
+}
