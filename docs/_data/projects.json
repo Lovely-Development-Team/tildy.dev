@@ -2,8 +2,8 @@
 	"projects": [
 		{
 			"name": "Elsewhen",
-			"link": "https://github.com/Lovely-Development-Team/Elsewhen",
-			"description": "[Now on TestFlight.](https://testflight.apple.com/join/pWKcjt7i) Time zones make talking to people online about times and dates complicated. Elsewhen makes it easier by letting you pick a date and time in a particular time zone that can be copied as Discord time code (which shows the time in each user's time zone), or a list of times in time zones you choose, which can be shared anywhere you wish."
+			"link": "/elsewhen/",
+			"description": "[Available on the App Store.](https://apps.apple.com/app/elsewhen/id1588708173) Time zones make talking to people online about times and dates complicated. Elsewhen makes it easier by letting you pick a date and time in a particular time zone that can be copied as Discord time code (which shows the time in each user's time zone), or a list of times in time zones you choose, which can be shared anywhere you wish."
 		},
 		{
 			"name": "MottoBotto",
