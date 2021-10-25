@@ -31,3 +31,32 @@ a {
 a:hover {
     color: rgb(68, 77, 205);
 }
+
+@media (max-width: 768px) {
+    img.screenshot {
+        min-height: auto;
+        max-height: auto;
+        width: 100%;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+
+    body {
+        background-color: rgb(26, 28, 38);
+    }
+
+    h1 {
+        color: white;
+    }
+
+    .bg-light {
+        background-color: rgb(46, 48, 58) !important;
+        color: rgba(255, 255, 255, 0.9);
+    }
+
+    .bg-light .text-secondary {
+        color:  rgba(255, 255, 255, 0.6) !important;
+    }
+
+}
