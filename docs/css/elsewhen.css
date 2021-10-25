@@ -31,3 +31,11 @@ a {
 a:hover {
     color: rgb(68, 77, 205);
 }
+
+@media (max-width: 768px) {
+    img.screenshot {
+        min-height: auto;
+        max-height: auto;
+        width: 100%;
+    }
+}
