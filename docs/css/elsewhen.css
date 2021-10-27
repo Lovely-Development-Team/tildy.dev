@@ -3,7 +3,7 @@ body {
     border-width: 25px 0;
 }
 
-img.screenshot {
+.screenshot {
     min-height: 600px;
     max-height:  75vh;
     /*max-width: 75vh;*/
@@ -33,7 +33,7 @@ a:hover {
 }
 
 @media (max-width: 768px) {
-    img.screenshot {
+    .screenshot {
         min-height: auto;
         max-height: auto;
         width: 100%;

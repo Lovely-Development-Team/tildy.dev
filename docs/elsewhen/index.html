@@ -40,7 +40,11 @@
 
                 </div>
 
-                <img src="/assets/elsewhen-screenshot1.png" class="screenshot ps-md-4" alt="Elsewhen Time Code Generator screenshot" />
+                <picture>
+                  <source srcset="/assets/elsewhen-screenshot2.png" media="(prefers-color-scheme: dark)" />
+                  <source srcset="/assets/elsewhen-screenshot1.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                  <img id="screenshot" class="screenshot ps-md-4" alt="Elsewhen Time Code Generator screenshot" src="/assets/elsewhen-screenshot1.png" />
+                </picture>
 
             </div>
 
