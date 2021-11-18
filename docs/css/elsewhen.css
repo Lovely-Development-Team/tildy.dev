@@ -59,4 +59,8 @@ a:hover {
         color:  rgba(255, 255, 255, 0.6) !important;
     }
 
+    .quote {
+        color: rgb(248, 249, 250) !important;
+    }
+
 }
