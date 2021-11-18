@@ -61,6 +61,13 @@ a:hover {
 	flex-direction:column;
 }
 
+#quote {
+	border-top: 1px solid var(--link-color);
+	border-bottom: 1px solid var(--link-color);
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
 @media screen and (orientation: portrait) {
 	#container {
 		display:block;
