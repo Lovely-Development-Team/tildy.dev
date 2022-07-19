@@ -9,6 +9,10 @@ body {
     /*max-width: 75vh;*/
 }
 
+.mac-screenshot {
+    max-width: 45vw;
+}
+
 .app-icon {
     height: 60px;
     width: 60px;
@@ -37,6 +41,10 @@ a:hover {
         min-height: auto;
         max-height: auto;
         width: 100%;
+    }
+    
+    .mac-screenshot {
+        max-width: 100%;
     }
 }
 
