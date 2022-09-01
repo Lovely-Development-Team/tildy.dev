@@ -11,11 +11,6 @@
 			"description": "A bespoke bot for the most special channel in the Relay FM member Discord."
 		},
 		{
-      "name": "The Nutbush Dance",
-			"link": "https://www.nutbush.dance",
-			"description": "Our tribute to the greatest collaboration between Tina Turner and Australia since Mad Max: Beyond Thunderdome."
-    },
-		{
 			"name": "Relay FM for St. Jude",
 			"link": "https://github.com/Lovely-Development-Team/St-Jude-Widget-App",
 			"description": "[Available on TestFlight.](https://testflight.apple.com/join/8jDR0K1F) A widget app that shows the progress of the 2022 Relay FM for St. Jude fundraising event and individual community fundraisers."
