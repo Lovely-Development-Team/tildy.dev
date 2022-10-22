@@ -68,6 +68,22 @@ a:hover {
 	padding-bottom: 2rem;
 }
 
+.team-logo {
+	position: fixed; 
+	top: 20px;
+	left: 10px;
+}
+
+.team-logo img {
+	max-width: 200px;
+}
+
+@media only screen and (max-width: 1400px) {
+	.team-logo {
+		position: relative;
+	}
+}
+
 @media screen and (orientation: portrait) {
 	#container {
 		display:block;
