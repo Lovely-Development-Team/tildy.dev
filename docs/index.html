@@ -15,7 +15,7 @@ layout: base
 		<dl id="projects">
 			{% for project in site.data.projects.projects %}
 				<dt><a href="{{ project.link }}">{{ project.name }}</a></dt>
-				<dd>{% if project.name == "Relay FM for St. Jude" %}<script src="https://septembed.rknight.me/sj.js?u=https://tiltify.com/@thelovelydevelopers/the-lovely-developers-for-st-jude-2023"></script>{% endif %}{{ project.description | markdownify }}</dd>
+				<dd>{{ project.description | markdownify }}</dd>
 			{% endfor %}
 		</dl>
 
