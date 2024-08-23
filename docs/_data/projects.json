@@ -8,12 +8,12 @@
 		{
 			"name": "MottoBotto",
 			"link": "https://github.com/Lovely-Development-Team/MottoBotto",
-			"description": "A bespoke bot for the most special channel in the Relay FM member Discord."
+			"description": "A bespoke bot for the most special channel in the Relay member Discord."
 		},
 		{
-			"name": "Relay FM for St. Jude",
+			"name": "Relay for St. Jude",
 			"link": "https://github.com/Lovely-Development-Team/St-Jude-Widget-App",
-			"description": "(Currently inactive) A widget app that shows the progress of the 2023 Relay FM for St. Jude fundraising event and individual community fundraisers."
+			"description": "[Available in TestFlight.](https://testflight.apple.com/join/8jDR0K1F) A widget app that shows the progress of the 2024 Relay for St. Jude fundraising event and individual community fundraisers."
 		},
 		{
 			"name": "Tildy",
