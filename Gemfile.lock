@@ -36,6 +36,7 @@ GEM
     faraday-net_http (3.4.0)
       net-http (>= 0.5.0)
     ffi (1.17.2)
+    ffi (1.17.2-arm64-darwin)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (215)
@@ -274,4 +275,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.21
+   2.6.9
